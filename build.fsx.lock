@@ -1,4 +1,4 @@
-STORAGE: NONE
+STORAGE: PACKAGES
 RESTRICTION: == netstandard2.0
 NUGET
   remote: https://api.nuget.org/v3/index.json
@@ -91,6 +91,8 @@ NUGET
       FSharp.Core (>= 4.7)
       System.Reactive (>= 4.3.2)
     FSharp.Core (4.7.2)
+    FSharp.Data (3.3.3)
+      FSharp.Core (>= 4.3.4)
     Microsoft.Build (16.5)
     Microsoft.Build.Framework (16.5)
       System.Runtime.Serialization.Primitives (>= 4.1.1)

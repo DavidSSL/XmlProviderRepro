@@ -1,0 +1,16 @@
+D: /lib
+D: /lib/netstandard1.3
+F: /lib/netstandard1.3/System.Resources.Writer.dll
+D: /package
+D: /package/services
+D: /package/services/metadata
+D: /package/services/metadata/core-properties
+F: /package/services/metadata/core-properties/cbd06d6acdaf4b9d9264ca959c5d1649.psmdcp
+D: /_rels
+F: /_rels/.rels
+F: /.signature.p7s
+F: /dotnet_library_license.txt
+F: /system.resources.writer.4.3.0.nupkg
+F: /System.Resources.Writer.nuspec
+F: /ThirdPartyNotices.txt
+F: /[Content_Types].xml

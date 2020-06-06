@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>MSBuild.StructuredLogger</id>
+    <version>2.1.133</version>
+    <authors>Kirill Osenkov, Microsoft</authors>
+    <owners>Kirill Osenkov, Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/KirillOsenkov/MSBuildStructuredLog</projectUrl>
+    <iconUrl>https://github.com/KirillOsenkov/MSBuildStructuredLog/blob/08a544cbc97fdb80f78822e599b52756a7df047c/docs/StructuredLogger.png</iconUrl>
+    <description>An MSBuild logger that can be passed to MSBuild to record a detailed structured log file. See usage example at: https://github.com/KirillOsenkov/MSBuildStructuredLog/blob/master/README.md#usage</description>
+    <tags>MSBuild Log Logger Structure Structured</tags>
+    <repository url="https://github.com/KirillOsenkov/MSBuildStructuredLog" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Build" version="16.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Build.Framework" version="16.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Build.Tasks.Core" version="16.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Build.Utilities.Core" version="16.4.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Compression" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
