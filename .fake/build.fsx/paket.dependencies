@@ -1,6 +1,6 @@
 framework: netstandard2.0
 source https://api.nuget.org/v3/index.json
-storage: none
+storage: packages
 
 nuget Fake.DotNet.Cli
 nuget Fake.IO.FileSystem

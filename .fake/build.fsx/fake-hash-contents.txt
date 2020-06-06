@@ -4,6 +4,7 @@ nuget Fake.DotNet.Cli
 nuget Fake.IO.FileSystem
 nuget Fake.Core.Target
 nuget FSharp.Data //"
+#r ".fake/build.fsx/packages/FSharp.Data/lib/netstandard2.0/FSharp.Data.dll"
 #r "System.Xml.Linq.dll"
 #load ".fake/build.fsx/intellisense.fsx"
 open Fake.Core

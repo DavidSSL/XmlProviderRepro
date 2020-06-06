@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>BlackFox.VsWhere</id>
+    <version>1.0.0</version>
+    <authors>Julien Roncaglia</authors>
+    <owners>Julien Roncaglia</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/vbfox/FoxSharp/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/vbfox/FoxSharp/tree/master/src/BlackFox.VsWhere</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/vbfox/FoxSharp/master/src/BlackFox.VsWhere/Icon.png</iconUrl>
+    <description>Locate Visual Studio 2017 and newer installations</description>
+    <releaseNotes>No changes but as FAKE is using the library the API shouldn't change now.</releaseNotes>
+    <tags>FSharp Visual Studio</tags>
+    <repository type="git" url="https://github.com/vbfox/FoxSharp.git" commit="e142551d79632edba76104b6cd0f54d58c898230" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="FSharp.Core" version="4.0.0.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="FSharp.Core" version="4.2.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
