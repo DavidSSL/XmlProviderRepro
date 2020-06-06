@@ -1,0 +1,3 @@
+I:\Work\Gitted\XmlProviderRepro\build.fsx (13,14)-(13,25): Error FS0039: The type 'XmlProvider' is not defined.
+I:\Work\Gitted\XmlProviderRepro\build.fsx (13,14)-(13,25): Error FS0039: The type 'XmlProvider' is not defined.
+I:\Work\Gitted\XmlProviderRepro\build.fsx (14,20)-(14,25): Error FS0039: The type 'Object' does not define the field, constructor or member 'Parse'.

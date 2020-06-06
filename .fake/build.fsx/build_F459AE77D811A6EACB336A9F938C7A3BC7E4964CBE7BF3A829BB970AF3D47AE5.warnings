@@ -1,5 +1,0 @@
-I:\Work\Gitted\XmlProviderRepro\build.fsx (29,26)-(29,37): Error FS0039: The type 'XmlProvider' is not defined in 'Microsoft.FSharp.Data'.
-I:\Work\Gitted\XmlProviderRepro\build.fsx (29,26)-(29,37): Error FS0039: The type 'XmlProvider' is not defined in 'Microsoft.FSharp.Data'.
-I:\Work\Gitted\XmlProviderRepro\build.fsx (30,20)-(30,25): Error FS0039: The type 'Object' does not define the field, constructor or member 'Parse'.
-I:\Work\Gitted\XmlProviderRepro\build.fsx (32,31)-(32,42): Error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
-I:\Work\Gitted\XmlProviderRepro\build.fsx (32,43)-(32,54): Error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.

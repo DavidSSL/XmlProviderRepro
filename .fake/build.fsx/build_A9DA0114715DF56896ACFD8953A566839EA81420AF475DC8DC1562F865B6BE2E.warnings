@@ -1,5 +1,0 @@
-I:\Work\Gitted\XmlProviderRepro\build.fsx (30,25)-(30,33): Error FS0611: Missing function body
-I:\Work\Gitted\XmlProviderRepro\build.fsx (7,0)-(7,24): Error FS0078: Unable to find the file 'System.Xml.Ling.dll' in any of
- C:\Users\David\.nuget\packages\netstandard.library\2.0.3\build\netstandard2.0\ref
- I:\Work\Gitted\XmlProviderRepro
- C:\ProgramData\chocolatey\lib\fake\bin\
